@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: c0ba1t's Notes
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is c0ba1t's personal notes for IGCSE
