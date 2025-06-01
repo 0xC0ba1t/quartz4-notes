@@ -14,11 +14,11 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: {
       provider: "umami",
-      host: "https://umami.is",
+      host: "https://cloud.umami.is",
       websiteId: "f5360d04-971f-4e6d-b944-55da2d649963",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "c0ba1t.is-a.dev/quartz4-notes",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
