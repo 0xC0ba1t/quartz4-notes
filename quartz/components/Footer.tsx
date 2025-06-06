@@ -15,6 +15,7 @@ export default ((opts?: Options) => {
       <footer class={`${displayClass ?? ""}`}>
         <p>
           © {year} c0ba1t (Aditya Patil)
+          :)
         </p>
         <p>
           {i18n(cfg.locale).components.footer.createdWith}{" "}
