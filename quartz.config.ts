@@ -18,7 +18,7 @@ const config: QuartzConfig = {
       websiteId: "f5360d04-971f-4e6d-b944-55da2d649963",
     },
     locale: "en-US",
-    baseUrl: "c0ba1t.is-a.dev/quartz4-notes",
+    baseUrl: "c0ba1t.is-a.dev/quartz4-notes/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
